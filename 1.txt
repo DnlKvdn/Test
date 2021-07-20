@@ -7,4 +7,8 @@ master 1
 =======
 New
 >>>>>>> New
+<<<<<<< HEAD
 MASTER
+=======
+NEWBRANCH
+>>>>>>> NewBranch
