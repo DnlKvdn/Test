@@ -1,5 +1,9 @@
 Change 1
 Change 2
 wsdwa
+<<<<<<< HEAD
 New
 master 1
+=======
+New
+>>>>>>> New
